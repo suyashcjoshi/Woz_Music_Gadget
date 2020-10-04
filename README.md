@@ -1,5 +1,5 @@
-# Woz Music Gadget 🎵
-Arduino Fruit Music Gadget as part of 11 Days of WozDom Challenge #wozdomday11
+# Woz Music Gadget - The Fruit Symphony 🎵
+The Fruit Symphony was part of 11 Days of WozDom Challenge #wozdomday11
 
 **Date** : Aug 21, 2020 <br />
 **Author** : Suyash Joshi <br />
