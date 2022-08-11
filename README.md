@@ -1,5 +1,5 @@
 # Woz Music Gadget - The Fruit Symphony 🎵
-The Fruit Symphony was part of 11 Days of WozDom Challenge #wozdomday11. 
+The Fruit Symphony was part of [11 Days of WozDom Challenge](https://www.wozbday.com/challenge-winners) #wozdomday11. 
 [Demo video & Steve Wozniak's comment for the same.](https://www.instagram.com/tv/CELqoeCBZvr/?utm_source=ig_web_copy_link)
 
 **Date** : Aug 21, 2020 <br />
