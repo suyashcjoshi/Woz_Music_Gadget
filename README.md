@@ -1,5 +1,6 @@
 # Woz Music Gadget - The Fruit Symphony 🎵
-The Fruit Symphony was part of 11 Days of WozDom Challenge #wozdomday11
+The Fruit Symphony was part of 11 Days of WozDom Challenge #wozdomday11. 
+[Demo video & Steve Wozniak's comment for the same.](https://www.instagram.com/tv/CELqoeCBZvr/?utm_source=ig_web_copy_link)
 
 **Date** : Aug 21, 2020 <br />
 **Author** : Suyash Joshi <br />
@@ -12,3 +13,5 @@ The Fruit Symphony was part of 11 Days of WozDom Challenge #wozdomday11
 - Make sure the Board is set to "Adafruit Circuit Playground" and port to Serial
 - Upload the sketch 'Woz_Music.ino'
 - Touch the fruits to play musical notes, chords etc :)
+
+
