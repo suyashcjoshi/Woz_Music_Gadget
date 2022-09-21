@@ -9,8 +9,8 @@ The Fruit Symphony was part of [11 Days of WozDom Challenge](https://www.wozbday
 
 ###### Steps to Run the program :
 
-- Open Arduino IDE and connect your Hardware setup
-- Make sure the Board is set to "Adafruit Circuit Playground" and port to Serial
+- Open Arduino IDE and connect your Hardware and setup in Arduino IDE using this [guide.](https://learn.adafruit.com/introducing-circuit-playground/set-up-test-arduino)
+- Make sure the Board is set to "Adafruit Circuit Playground" and port to Serial.
 - Upload the sketch 'Woz_Music.ino'
 - Touch the fruits to play musical notes, chords etc :)
 
