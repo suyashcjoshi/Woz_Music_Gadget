@@ -1,4 +1,4 @@
-// Date : Aug 21, 2020
+// Date Last Update : Oct 2, 2025
 // Author : Suyash Joshi
 // Hardware Setup : Circuit Playground Classic - USB/Battery Powered connected with Aligator Wires from touch pads to Fruits
 // Description : Program that plays music when someone touches the fruits
