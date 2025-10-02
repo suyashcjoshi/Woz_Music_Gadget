@@ -2,7 +2,7 @@
 The Fruit Symphony was part of [11 Days of WozDom Challenge](https://www.wozbday.com/challenge-winners) #wozdomday11. 
 [Demo video & Steve Wozniak's comment for the same.](https://www.instagram.com/tv/CELqoeCBZvr/?utm_source=ig_web_copy_link)
 
-**Late Date updated** : 28, May 2024 <br />
+**Late Date updated** : Oct 2025 <br />
 **Author** : Suyash Joshi <br />
 **Hardware Setup** : [Adafruit Circuit Playground Classic](https://www.adafruit.com/product/3000) - USB/Battery Powered connected with Aligator Wires from touch pads to Fruits <br />
 **Description** : Program that plays music when someone touches the fruits <br />
