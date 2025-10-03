@@ -1,6 +1,7 @@
-# Woz Music Gadget - The Fruit Symphony 🎵
+# Woz Music Gadget - The Fruit Symphony 🎵 (Award Winning)
 The Fruit Symphony was part of [11 Days of WozDom Challenge](https://www.wozbday.com/challenge-winners) #wozdomday11. 
 [Demo video & Steve Wozniak's comment for the same.](https://www.instagram.com/tv/CELqoeCBZvr/?utm_source=ig_web_copy_link)
+
 
 **Late Date updated** : Oct 2025 <br />
 **Author** : Suyash Joshi <br />
